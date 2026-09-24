@@ -30,7 +30,7 @@
 <!-- links -->
 <p align="center">
   <a href="https://mansouri.uk"><img alt="website mansouri.uk" src="https://img.shields.io/badge/website-mansouri.uk-9C8FC9?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1B1430"></a>
-  <a href="https://app.mansouri.uk"><img alt="mobile app for Android and iOS" src="https://img.shields.io/badge/app-Android_·_iOS-9C8FC9?style=flat-square&logo=android&logoColor=white&labelColor=1B1430"></a>
+  <a href="https://app.mansouri.uk"><img alt="AR app, coming soon" src="https://img.shields.io/badge/AR_app-coming_soon-9C8FC9?style=flat-square&logo=android&logoColor=white&labelColor=1B1430"></a>
   <a href="mailto:hello@mansouri.uk"><img alt="email hello@mansouri.uk" src="https://img.shields.io/badge/email-hello%40mansouri.uk-9C8FC9?style=flat-square&logo=maildotru&logoColor=white&labelColor=1B1430"></a>
   <a href="https://github.com/ijraidy?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ijraidy?style=flat-square&color=9C8FC9&labelColor=1B1430&logo=github"></a>
 </p>
@@ -54,6 +54,7 @@
 - [What I build](#what-i-build)
 - [Selected work](#selected-work)
 - [Tools I made](#tools-i-made)
+- [The Lab](#the-lab)
 - [How I work](#how-i-work)
 - [Stack](#stack)
 - [Timeline](#timeline)
@@ -116,6 +117,18 @@ Every project below is a case study on the site with the problem, what I built a
 | 🤖 | **unity-uitoolkit** | AI coding agents | UXML, USS, runtime binding and custom controls with current APIs. |
 | 🤖 | **unity-ar** | AI coding agents | AR Foundation, Meta XR, anchors and colocation patterns and fixes. |
 
+## The Lab
+
+Open source I fork and build on. None of it is mine; each has its own page on mansouri.uk.
+
+| | Fork | Upstream | What it is |
+|---|---|---|---|
+| 🗺️ | [rocky](https://mansouri.uk/work/rocky) | pelicanmapping/rocky | An SDK for 3D maps and globes with real imagery and elevation data, C++17 |
+| 🏗️ | [editor](https://mansouri.uk/work/editor) | pascalorg/editor | Pascal, a local-first 3D building editor on React Three Fiber and WebGPU |
+| 📊 | [sc-datav](https://mansouri.uk/work/sc-datav) | knight-L/sc-datav | A 3D map data dashboard on Three.js, React 19 and ECharts |
+| ⚙️ | [CADAM](https://mansouri.uk/work/cadam) | Adam-CAD/CADAM | The open source text-to-CAD web app, OpenSCAD in the browser |
+| 🎬 | [Stickman-Studio](https://mansouri.uk/work/stickman) | saiedpod-bot/Stickman-Studio | A stickman animation pipeline from script to a finished video |
+
 ## How I work
 
 <p align="center"><a href="https://mansouri.uk/about"><img src="assets/about.webp" alt="mansouri.uk about page: player card with attribute bars for XR, games, apps and tools, a timeline and four principles" width="760"></a></p>
@@ -173,7 +186,7 @@ Almost all of those contributions land in private repositories, so the contribut
 |---|---|
 | 🌐 | [mansouri.uk](https://mansouri.uk) |
 | ✉️ | [hello@mansouri.uk](mailto:hello@mansouri.uk) |
-| 📱 | [app.mansouri.uk](https://app.mansouri.uk), the MansouriXR app for Android and iOS |
+| 📱 | [app.mansouri.uk](https://app.mansouri.uk), the MansouriXR AR app, coming soon |
 | 🎮 | Press Start on the site, find the six coins, and open the contact page to earn the Player 2 achievement |
 
 <p align="center"><sub>Every capture on this page is the real site, taken on 2026-09-24.</sub></p>
