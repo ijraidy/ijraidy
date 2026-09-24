@@ -35,8 +35,6 @@
   <a href="https://github.com/ijraidy?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ijraidy?style=flat-square&color=9C8FC9&labelColor=1B1430&logo=github"></a>
 </p>
 
-<p align="center"><a href="https://mansouri.uk"><img src="assets/home.webp" alt="mansouri.uk title screen: the headline I build worlds you play, wear and use, a spinning 3D pink visor mark with a HUD, a Now building card and a Shipped 13 counter" width="760"></a></p>
-
 <p align="center">
   <a href="https://mansouri.uk/work">Work</a> ·
   <a href="https://mansouri.uk/services">Services</a> ·
@@ -63,8 +61,6 @@
 
 ## What I build
 
-<p align="center"><a href="https://mansouri.uk/services"><img src="assets/services.webp" alt="mansouri.uk services page: four numbered cards for XR, games, apps and tools, each with its stack chips" width="760"></a></p>
-
 | | World | What ships | Stack |
 |---|---|---|---|
 | 🥽 | **XR / VR / AR** | VR training, AR showrooms and mixed reality. Single-player or multiplayer, online or air-gapped. | Unity 6, Meta XR, AR Foundation, Pico |
@@ -73,8 +69,6 @@
 | 🧰 | **Tools** | Unity packages, Blender addons, CLIs and AI agent skills for other builders. | C#, Python, TypeScript |
 
 ## Selected work
-
-<p align="center"><a href="https://mansouri.uk/work"><img src="assets/work.webp" alt="mansouri.uk level select: a grid of project cards numbered LV 01 to LV 13, filtered by XR, games, apps and tools" width="760"></a></p>
 
 Every project below is a case study on the site with the problem, what I built and the result.
 
@@ -108,8 +102,6 @@ Every project below is a case study on the site with the problem, what I built a
 
 ## Tools I made
 
-<p align="center"><a href="https://mansouri.uk/tools"><img src="assets/tools.webp" alt="mansouri.uk tools page: power-up cards for the Blender addon, the design system tokens and the Unity agent skills" width="760"></a></p>
-
 | | Tool | For | What it does |
 |---|---|---|---|
 | 🧊 | **xr-studio** | Blender | Optimize, bake and export assets for Quest in one click. Used on every XR project I ship. |
@@ -130,8 +122,6 @@ Open source I fork and build on. None of it is mine; each has its own page on ma
 | 🎬 | [Stickman-Studio](https://mansouri.uk/work/stickman) | saiedpod-bot/Stickman-Studio | A stickman animation pipeline from script to a finished video |
 
 ## How I work
-
-<p align="center"><a href="https://mansouri.uk/about"><img src="assets/about.webp" alt="mansouri.uk about page: player card with attribute bars for XR, games, apps and tools, a timeline and four principles" width="760"></a></p>
 
 | Step | | What happens |
 |---|---|---|
@@ -189,4 +179,3 @@ Almost all of those contributions land in private repositories, so the contribut
 | 📱 | [app.mansouri.uk](https://app.mansouri.uk), the MansouriXR AR app, coming soon |
 | 🎮 | Press Start on the site, find the six coins, and open the contact page to earn the Player 2 achievement |
 
-<p align="center"><sub>Every capture on this page is the real site, taken on 2026-09-24.</sub></p>
