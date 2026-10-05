@@ -8,7 +8,7 @@
 
 Developer and designer building XR, games, apps and tools.
 
-**MansouriXR Services** is a side-hustle product label for independent apps and experiments. 
+**MansouriXR Services** is a side-hustle product label and brand for independent apps and experiments. 
 
 ## Focus
 
@@ -21,14 +21,14 @@ Developer and designer building XR, games, apps and tools.
 
 ## Selected Work
 
-| Project | Type | Link |
+| Project | Type |
 |---|---|---|
-| MansouriXR | Brand, website and app | [ijraidy/mansourixr-](https://github.com/ijraidy/mansourixr-) |
-| MansouriXR Studio | Design engine and design-system workspace | [ijraidy/mansourixr-studio](https://github.com/ijraidy/mansourixr-studio) |
-| Minuteman | Local-first meeting assistant | [ijraidy/MinuteMan](https://github.com/ijraidy/MinuteMan) |
-| AR Art Studio | Printed artwork to AR workflow | [ijraidy/ar-art-studio](https://github.com/ijraidy/ar-art-studio) |
-| QR Asset Registry | Unity Android inventory app | [ijraidy/qr-inventory-management](https://github.com/ijraidy/qr-inventory-management) |
-| ALC Quiz Arena | Classroom quiz system | [ijraidy/ALC_QUIZ_Arena](https://github.com/ijraidy/ALC_QUIZ_Arena) |
+| MansouriXR | Brand, website and app |
+| MansouriXR Studio | Design engine and design-system workspace  |
+| Minuteman | Local-first meeting assistant |
+| AR Art Studio | Printed artwork to AR workflow |
+| QR Asset Registry | Unity Android inventory app |
+| ALC Quiz Arena | Classroom quiz system 
 
 ## Stack
 
