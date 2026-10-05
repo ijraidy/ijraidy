@@ -4,11 +4,11 @@
   <img alt="Juraydi Mansouri" src=".github/brand/banner-dark.png" width="100%">
 </picture>
 
-# Juraydi Mansouri
+# J.Mansouri
 
 Developer and designer building XR, games, apps and tools.
 
-**MansouriXR Services** is my side-hustle product label for independent apps and experiments. The developer identity stays personal: **Juraydi Mansouri**.
+**MansouriXR Services** is a side-hustle product label for independent apps and experiments. 
 
 ## Focus
 
