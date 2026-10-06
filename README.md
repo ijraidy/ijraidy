@@ -8,7 +8,7 @@
 
 Developer and designer building XR, games, apps and tools.
 
-**MansouriXR Services** is a side-hustle product label and brand for independent apps and experiments. 
+**MansouriXR Services** is a side-hustle product label and brand for independent apps and experiments.
 
 ## Focus
 
@@ -16,19 +16,22 @@ Developer and designer building XR, games, apps and tools.
 |---|---|
 | XR and AR | Training tools, mixed-reality prototypes, AR learning flows |
 | Games | Unity projects, classroom games, interaction systems |
-| Apps | Flutter, desktop, mobile and local-first tools |
+| Apps | Flutter, desktop, mobile and offline tools |
 | Systems | Self-hosted workflows, dashboards, automation and release pipelines |
 
 ## Selected Work
 
 | Project | Type |
-|---|---|---|
+|---|---|
 | MansouriXR | Brand, website and app |
-| MansouriXR Studio | Design engine and design-system workspace  |
-| Minuteman | Local-first meeting assistant |
+| MansouriXR Studio | Design engine and design-system workspace |
+| Saudi Arabia Live | 3D live map of the Kingdom |
+| Blueprint Studio | Floor plan to 3D building editor |
+| The Aurora Project | Device mockup showcase for the apps |
+| Minuteman | Meeting assistant for Windows and iPhone |
 | AR Art Studio | Printed artwork to AR workflow |
 | QR Asset Registry | Unity Android inventory app |
-| ALC Quiz Arena | Classroom quiz system 
+| ALC Quiz Arena | Classroom quiz system |
 
 ## Stack
 
