@@ -8,7 +8,6 @@
 
 Developer and designer building XR, games, apps and tools.
 
-**MansouriXR Services** is a side-hustle product label and brand for independent apps and experiments.
 
 ## Focus
 
@@ -55,5 +54,5 @@ Developer and designer building XR, games, apps and tools.
 <p align="center">
   <img src=".github/brand/logo.png" height="20" alt="MansouriXR mark"><br>
   <sub><b>DEVELOPED BY JURAYDI MANSOURI</b><br>
-  MansouriXR Services · GAMES · XR · APPS · TOOLS</sub>
+  J.Mansouri Studio · GAMES · XR · APPS · TOOLS</sub>
 </p>
