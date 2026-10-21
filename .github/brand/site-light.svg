@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 104" width="760" height="104" role="img" aria-label="Every project running at mansouri.uk"><rect data-plate="1" x="0" y="0" width="760" height="104" rx="18" fill="#EEF0F3"/>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="m"><rect width="760" height="104" fill="#000"/><text x="380.0" y="74" fill="#fff" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="33" font-weight="600" letter-spacing="7">MANSOURI.UK</text></mask></defs>
+<style>
+.sweep{animation:sweep 4.6s cubic-bezier(.45,0,.3,1) infinite}
+@keyframes sweep{0%{transform:translateX(0)}70%,100%{transform:translateX(1030px)}}
+.arrow{animation:nudge 4.6s cubic-bezier(.2,0,0,1) infinite}
+@keyframes nudge{0%,62%{transform:translateX(0)}72%{transform:translateX(7px)}82%,100%{transform:translateX(0)}}
+@media (prefers-reduced-motion: reduce){
+  .sweep{animation:none;opacity:0}
+  .arrow{animation:none;transform:none}
+}
+</style>
+<path d="M14 36V14h22" stroke="#50545C" stroke-width="1.4" fill="none"/><path d="724 14h22v22" stroke="#50545C" stroke-width="1.4" fill="none"/><path d="M14 36V14h22" stroke="#50545C" stroke-width="1.4" fill="none"/><path d="M724 14h22v22" stroke="#50545C" stroke-width="1.4" fill="none"/><path d="M14 68V90h22" stroke="#50545C" stroke-width="1.4" fill="none"/><path d="M724 90h22v-22" stroke="#50545C" stroke-width="1.4" fill="none"/><text x="380.0" y="34" fill="#50545C" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" letter-spacing="4.6">EVERY PROJECT, RUNNING</text><text x="380.0" y="74" fill="#1E1F23" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="33" font-weight="600" letter-spacing="7">MANSOURI.UK</text><g mask="url(#m)"><rect class="sweep" x="-260" y="46" width="260" height="38" fill="url(#g)"/></g><g class="arrow"><path d="M706,56.0 h18 m-6,-6 l6,6 l-6,6" fill="none" stroke="#1E1F23" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
